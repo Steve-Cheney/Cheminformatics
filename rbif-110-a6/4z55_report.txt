@@ -8,10 +8,10 @@
 - **Chains Present:** A
 
 ## Ligand Information:
-- **Bound Ligands:** LEU, ILE, THR, TYR, PRO, GLN, HIS, PHE, GLY, ARG, 4LO, HOH, VAL, SER, TRP, ALA, ASP, ASN, CYS, MET, GOL, LYS, GLU
+- **Bound Ligands:** SER, GLY, ALA, PHE, ILE, 4LO, HOH, GLN, TRP, TYR, ASN, VAL, CYS, ASP, LYS, ARG, GOL, PRO, THR, GLU, HIS, MET, LEU
 
 ## Summary:
 PDB structure 4Z55 has a resolution of 1.55 Å and contains 1 chains. 
-The structure includes the following bound ligands: LEU, ILE, THR, TYR, PRO, GLN, HIS, PHE, GLY, ARG, 4LO, HOH, VAL, SER, TRP, ALA, ASP, ASN, CYS, MET, GOL, LYS, GLU.
+The structure includes the following bound ligands: SER, GLY, ALA, PHE, ILE, 4LO, HOH, GLN, TRP, TYR, ASN, VAL, CYS, ASP, LYS, ARG, GOL, PRO, THR, GLU, HIS, MET, LEU.
 This makes it a suitable candidate for further **virtual screening**.
 
