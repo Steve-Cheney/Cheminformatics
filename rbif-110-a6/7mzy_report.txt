@@ -1,0 +1,17 @@
+
+# Structural Report: 7MZY
+
+## General Information:
+- **PDB ID:** 7MZY
+- **Resolution:** 1.5 Å
+- **Number of Chains:** 2
+- **Chains Present:** A, B
+
+## Ligand Information:
+- **Bound Ligands:** LEU, ILE, THR, TYR, PRO, GLN, HIS, PHE, GLY, ARG, HOH, VAL, SER, TRP, ALA, ASP, ASN, ACT, CYS, MET, LYS, GLU
+
+## Summary:
+PDB structure 7MZY has a resolution of 1.5 Å and contains 2 chains. 
+The structure includes the following bound ligands: LEU, ILE, THR, TYR, PRO, GLN, HIS, PHE, GLY, ARG, HOH, VAL, SER, TRP, ALA, ASP, ASN, ACT, CYS, MET, LYS, GLU.
+This makes it a suitable candidate for further **virtual screening**.
+
