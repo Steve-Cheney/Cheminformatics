@@ -1,0 +1,459 @@
+drug_name,drug_id,ind_name,ind_id,NCT,status,phase,DetailedStatus,SMILES
+Prednisolone,DB00860,Tendinitis,C0039503,,Approved,,,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C)O
+Cortisone acetate,DB01380,Tendinitis,C0039503,,Approved,,,CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
+Itraconazole,DB01167,Aspergillosis,C0004030,,Approved,,,CCC(C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OC[C@H]5CO[C@](O5)(CN6C=NC=N6)C7=C(C=C(C=C7)Cl)Cl
+Empagliflozin,DB09038,"Diabetes Mellitus, Non-Insulin-Dependent",C0011860,,Approved,,,C1COC[C@H]1OC2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)Cl
+Simvastatin,DB00641,Hyperlipoproteinemia Type III,C0020479,,Approved,,,CCC(C)(C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C
+Zinc oxide,DB09321,Arthropod bite wound,C1444173,,Approved,,,O=[Zn]
+Cyproheptadine,DB00434,"unspecified childhood solid tumor, protocol specific",C0279002,NCT00949117,Terminated,Phase 2,study not feasible with low accrual. DSMB recommended closure,CN1CCC(=C2C3=CC=CC=C3C=CC4=CC=CC=C42)CC1
+Docetaxel,DB01248,"unspecified adult solid tumor, protocol specific",C0279004,NCT00049088,Terminated,Phase 1,Administratively complete.,CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)O
+Bortezomib,DB00188,"unspecified adult solid tumor, protocol specific",C0279004,NCT00066625,Terminated,Phase 1,Administratively complete.,B([C@H](CC(C)C)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C2=NC=CN=C2)(O)O
+Fusidic Acid,DB02703,"Meningitis, Bacterial",C0085437,,Approved,,,C[C@H]1[C@@H]2CC[C@]3([C@H]([C@]2(CC[C@H]1O)C)[C@@H](C[C@@H]\4[C@@]3(C[C@@H](/C4=C(/CCC=C(C)C)\C(=O)O)OC(=O)C)C)O)C
+Pravastatin,DB00175,adult acute myelomonocytic leukemia (M4),C0279627,NCT01342887,Terminated,Phase 1/Phase 2,,CC[C@H](C)C(=O)O[C@H]1C[C@@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@H](C[C@H](CC(=O)O)O)O)O
+Cefotetan,DB01330,Infection of skin AND/OR subcutaneous tissue,C0178299,,Approved,,,CN1C(=NN=N1)SCC2=C(N3[C@@H]([C@@](C3=O)(NC(=O)C4SC(=C(C(=O)N)C(=O)O)S4)OC)SC2)C(=O)O
+Methyltestosterone,DB06710,Hot flushes,C0600142,,Approved,,,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@]4(C)O)C
+Ciprofloxacin,DB00537,Acute gonococcal urethritis,C0275652,,Approved,,,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O
+Desonide,DB01260,Seborrheic dermatitis,C0036508,,Approved,,,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)CO)CCC5=CC(=O)C=C[C@]35C)O
+Drostanolone,DB00858,Corneal abrasion,C0010032,,Approved,,,C[C@@H]1C[C@]2([C@@H](CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4O)C)CC1=O)C
+Valsartan,DB00177,Oxidative Stress,C0242606,NCT00878969,Terminated,Phase 3,insufficient enrollment and retention,CCCCC(=O)N(CC1=CC=C(C=C1)C2=CC=CC=C2C3=NNN=N3)[C@@H](C(C)C)C(=O)O
+Paclitaxel,DB01229,Ovarian epithelial cancer recurrent,C0278689,NCT02050009,Withdrawn,Phase 1,,CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C
+Lixisenatide,DB09265,"Diabetes Mellitus, Non-Insulin-Dependent",C0011860,,Approved,,,CC[C@H](C)[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)N)C(=O)NCC(=O)NCC(=O)N3CCC[C@H]3C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](C)C(=O)N4CCC[C@H]4C(=O)N5CCC[C@H]5C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N)NC(=O)[C@H](CC6=CC=CC=C6)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC7=CC=CC=C7)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)CNC(=O)[C@H](CC8=CNC=N8)N
+Loperamide,DB00836,Clostridium difficile diarrhea,C0235952,NCT01570634,Terminated,Phase 2,"Study was stopped for slow enrollment - only 2 patients, no evaluable results",CN(C)C(=O)C(CCN1CCC(CC1)(C2=CC=C(C=C2)Cl)O)(C3=CC=CC=C3)C4=CC=CC=C4
+Diiodohydroxyquinoline,DB09115,Amebiasis,C0002438,,Approved,,,C1=CC2=C(C(=C(C=C2I)I)O)N=C1
+Cisplatin,DB00515,Stage IVA Oral Cavity Verrucous Carcinoma,C1336354,NCT01728480,Withdrawn,Phase 1,Financial Sponsor requested termination,N.N.Cl[Pt]Cl
+Menthol,DB00825,Sprains and Strains,C0038048,,Approved,,,CC1CCC(C(C1)O)C(C)C
+Chlorphenamine,DB01114,Allergic rhinitis (disorder),C2607914,,Approved,,,CN(C)CCC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2
+Mycophenolate mofetil,DB00688,Myelofibrosis due to another disorder,C0242006,NCT00376519,Terminated,Phase 1,Slow accrual,CC1=C2COC(=O)C2=C(C(=C1OC)C/C=C(\C)/CCC(=O)OCCN3CCOCC3)O
+Doxorubicin,DB00997,contiguous stage II adult diffuse large cell lymphoma,C0677695,NCT00080847,Terminated,Phase 2,,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O
+Sulfamethizole,DB00576,Acute otitis media,C0271429,,Approved,,,CC1=NN=C(S1)NS(=O)(=O)C2=CC=C(C=C2)N
+Cilastatin,DB01597,Infection of skin AND/OR subcutaneous tissue,C0178299,,Approved,,,CC1(C[C@@H]1C(=O)N/C(=C\CCCCSC[C@@H](C(=O)O)N)/C(=O)O)C
+Gatifloxacin,DB01044,Moraxella catarrhalis pneumonia,C0857831,,Approved,,,CC1CN(CCN1)C2=C(C=C3C(=C2OC)N(C=C(C3=O)C(=O)O)C4CC4)F
+Ataluren,DB05016,"Muscular Dystrophy, Duchenne",C0013264,,Approved,,,C1=CC=C(C(=C1)C2=NC(=NO2)C3=CC(=CC=C3)C(=O)O)F
+Teriflunomide,DB08880,"Arthritis, Psoriatic",C0003872,,Approved,,,C/C(=C(\C#N)/C(=O)NC1=CC=C(C=C1)C(F)(F)F)/O
+Oxymetazoline,DB00935,Nasal congestion (finding),C0027424,,Approved,,,CC1=CC(=C(C(=C1CC2=NCCN2)C)O)C(C)(C)C
+Vincristine,DB00541,Diffuse Hyperplastic Perilobar Nephroblastomatosis,C1880323,NCT00945009,Suspended,Phase 3,Temporarily stopped for assessment,CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
+Oxaliplatin,DB00526,Stage IIIC Esophageal Adenocarcinoma,C2981374,NCT02392377,Terminated,Phase 2,Slow accrual,C1CC[C@H]([C@@H](C1)[NH-])[NH-].C(=O)(C(=O)O)O.[Pt+2]
+Ceftriaxone,DB01212,Gonorrhea of pharynx,C0149966,,Approved,,,CN1C(=NC(=O)C(=O)N1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)/C(=N\OC)/C4=CSC(=N4)N)SC2)C(=O)O
+Lisinopril,DB00722,Hypertensive disease,C0020538,,Approved,,,C1C[C@H](N(C1)C(=O)[C@H](CCCCN)N[C@@H](CCC2=CC=CC=C2)C(=O)O)C(=O)O
+Panobinostat,DB06603,Non-Small Cell Lung Carcinoma,C0007131,NCT00907179,Terminated,Phase 1,Widespread use firstline Pemetrexed; slow recruitment; funding withdrawn..,CC1=C(C2=CC=CC=C2N1)CCNCC3=CC=C(C=C3)/C=C/C(=O)NO
+Amoxicillin,DB01060,Bacterial urinary infection,C0729524,,Approved,,,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=C(C=C3)O)N)C(=O)O)C
+Gabapentin,DB00996,Restless Legs Syndrome,C0035258,,Approved,,,C1CCC(CC1)(CC(=O)O)CN
+Teriflunomide,DB08880,Lupus Nephritis,C0024143,NCT01342016,Terminated,Phase 3,Due to safety concern of active control drug,C/C(=C(\C#N)/C(=O)NC1=CC=C(C=C1)C(F)(F)F)/O
+Letrozole,DB01006,Recurrent Primary Peritoneal Carcinoma,C3897731,NCT02101788,Suspended,Phase 2/Phase 3,Drug supply issues,C1=CC(=CC=C1C#N)C(C2=CC=C(C=C2)C#N)N3C=NC=N3
+Etoposide,DB00773,Stage IIB Non-Small Cell Lung Carcinoma,C1336190,NCT01411098,Terminated,Phase 1,Low accrual,C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@H]3[C@H]4COC(=O)[C@@H]4[C@@H](C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O
+Cefapirin,DB01139,Staphylococcal endocarditis,C0520767,,Approved,,,CC(=O)OCC1=C(N2[C@@H]([C@@H](C2=O)NC(=O)CSC3=CC=NC=C3)SC1)C(=O)O
+Ceftriaxone,DB01212,Streptococcal sepsis,C0152964,,Approved,,,CN1C(=NC(=O)C(=O)N1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)/C(=N\OC)/C4=CSC(=N4)N)SC2)C(=O)O
+Lithium,DB01356,Fever,C0015967,,Approved,,,[Li]
+Erythropoietin,DB00016,Traumatic Brain Injury,C0876926,NCT02148367,Withdrawn,Phase 2,Publication of recent trials showing no effect of EPO in TBI substantially reduced equipoise    about this study.,CCCCC1=NC(=C(N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NN=N[N-]4)CO)Cl.[K+]
+Trimethoprim,DB00440,Acute otitis media,C0271429,,Approved,,,COC1=CC(=CC(=C1OC)OC)CC2=CN=C(N=C2N)N
+Etoposide,DB00773,Non-small cell lung cancer stage III,C0278506,NCT01336543,Withdrawn,Phase 2,"Low accrual, small patient population at center.",C[C@@H]1OC[C@@H]2[C@@H](O1)[C@@H]([C@H]([C@@H](O2)O[C@H]3[C@H]4COC(=O)[C@@H]4[C@@H](C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)O)OC)O)O
+Methylprednisolone,DB00959,Mycosis Fungoides,C0026948,,Approved,,,C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)CO)O
+Pregabalin,DB00230,Generalized Anxiety Disorder,C0270549,,Approved,,,CC(C)C[C@@H](CC(=O)O)CN
+Nicotinamide,DB02701,stage IV follicular thyroid cancer,C0278854,NCT00095693,Terminated,Phase 2,,C1=CC(=CN=C1)C(=O)N
+Tegafur,DB09256,Malignant neoplasm of stomach,C0024623,,Approved,,,C1CC(OC1)N2C=C(C(=O)NC2=O)F
+Azithromycin,DB00207,"Pneumonia, Bacterial",C0004626,,Approved,,,CC[C@@H]1[C@@]([C@@H]([C@H](N(C[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O
+Fludarabine,DB01073,leukemia,C0023418,NCT00066417,Terminated,Phase 2,Trial was withdrawn for drug availability issues.,C1=NC2=C(N=C(N=C2N1[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)O)F)N
+Cromoglicic acid,DB01003,Allergic keratoconjunctivitis,C1112631,,Approved,,,C1=CC2=C(C(=C1)OCC(COC3=CC=CC4=C3C(=O)C=C(O4)C(=O)O)O)C(=O)C=C(O2)C(=O)O
+Levoleucovorin,DB11596,Stage IIB Esophageal Adenocarcinoma,C1336180,NCT02392377,Terminated,Phase 2,Slow accrual,C1[C@@H](N(C2=C(N1)N=C(NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+Aripiprazole,DB01238,Bipolar I disorder,C0853193,NCT00857818,Terminated,Phase 3,Slow Accrual,C1CC(=O)NC2=C1C=CC(=C2)OCCCCN3CCN(CC3)C4=C(C(=CC=C4)Cl)Cl
+Pravastatin,DB00175,adult pure erythroid leukemia (M6b),C1541340,NCT01342887,Terminated,Phase 1/Phase 2,,CC[C@H](C)C(=O)O[C@H]1C[C@@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@H](C[C@H](CC(=O)O)O)O)O
+Gramicidin D,DB00027,Bacterial keratitis,C0854211,,Approved,,,C[C@@H](C(=O)N[C@H](C(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](CC3=CNC4=CC=CC=C43)C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](CC5=CNC6=CC=CC=C65)C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](CC7=CNC8=CC=CC=C87)C(=O)NCCO)NC(=O)[C@@H](CC(C)C)NC(=O)CNC(=O)[C@H](C(C)C)NC=O
+Niacin,DB00627,Hyperlipidemia,C0020473,,Approved,,,C1=CC(=CN=C1)C(=O)O
+Carboplatin,DB00958,Ovarian Diseases,C0029928,NCT01016054,Terminated,Phase 1,Trial was terminated to allow sponsors to evaluate the future development of the drug program,C1CC(C1)(C(=O)O)C(=O)O.[NH2-].[NH2-].[Pt+2]
+Ofloxacin,DB01165,Lower respiratory tract infection,C0149725,,Approved,,,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O
+Bepotastine,DB04890,Allergic Conjunctivitis,C0009766,,Approved,,,C1CN(CCC1O[C@@H](C2=CC=C(C=C2)Cl)C3=CC=CC=N3)CCCC(=O)O
+Cabazitaxel,DB06772,Metastatic Prostate Carcinoma,C0936223,,Approved,,,CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)OC)C)OC
+Estradiol,DB00783,Urethral atrophy,C0520577,,Approved,,,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=C3C=CC(=C4)O
+Methotrexate,DB00563,leukemia,C0023418,NCT00003056,Terminated,Phase 3,Interim analysis indicated study should be terminated,CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+Medrysone,DB00253,Iritis,C0022081,,Approved,,,C[C@H]1C[C@H]2[C@@H]3CC[C@@H]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)CC4)C)O)C)C(=O)C
+Epinephrine,DB00668,Wheezing,C0043144,,Approved,,,CNC[C@@H](C1=CC(=C(C=C1)O)O)O
+Aceprometazine,DB01615,Sleeplessness,C0917801,,Approved,,,CC(CN1C2=CC=CC=C2SC3=C1C=C(C=C3)C(=O)C)N(C)C
+Mycophenolate mofetil,DB00688,"Lupus Erythematosus, Systemic",C0024141,NCT00430677,Terminated,Phase 2/Phase 3,Terminated due to failure to meet the primary efficacy endpoint in the Short-term Period,CC1=C2COC(=O)C2=C(C(=C1OC)C/C=C(\C)/CCC(=O)OCCN3CCOCC3)O
+Irinotecan,DB00762,Stage IVA Rectal Cancer,C3897520,NCT01320683,Terminated,Phase 2,This study will not be written up.,CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)[C@@]4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7
+Cortisone acetate,DB01380,Status Asthmaticus,C0038218,,Approved,,,CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
+Dimethyl fumarate,DB08908,Multiple Sclerosis,C0026769,NCT02428231,Terminated,Phase 3,Sponsor decision,COC(=O)/C=C/C(=O)OC
+Econazole,DB01127,Tinea cruris,C1384589,,Approved,,,C1=CC(=CC=C1COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl)Cl
+Penciclovir,DB00299,Recurrent genital herpes simplex,C1274323,,Approved,,,C1=NC2=C(N1CCC(CO)CO)N=C(NC2=O)N
+Ixazomib,DB09570,Multiple Myeloma,C0026764,,Approved,,,B([C@H](CC(C)C)NC(=O)CNC(=O)C1=C(C=CC(=C1)Cl)Cl)(O)O
+Cladribine,DB00242,Hairy Cell Leukemia,C0023443,,Approved,,,C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=C(N=C32)Cl)N)CO)O
+Pentoxifylline,DB00806,Nonalcoholic Steatohepatitis,C3241937,NCT01384578,Withdrawn,Phase 3,Lack of funds,CC(=O)CCCCN1C(=O)C2=C(N=CN2C)N(C1=O)C
+Ketamine,DB01221,Bipolar Disorder,C0005586,NCT01504659,Suspended,Phase 2/Phase 3,Protocol Revisions,CNC1(CCCCC1=O)C2=CC=CC=C2Cl
+Cefaclor,DB00833,Urinary tract infection,C0042029,,Approved,,,C1C(=C(N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=CC=C3)N)C(=O)O)Cl
+Prednicarbate,DB01130,Pruritus of genital organs,C0033777,,Approved,,,CCC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]34C)O)C)OC(=O)OCC
+Prednisolone,DB00860,"Lymphoma, Follicular",C0024301,,Approved,,,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C)O
+Diflorasone,DB00223,Scalp psoriasis,C0406326,,Approved,,,C[C@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C)F
+Primidone,DB00794,Bipolar disorder in remission,C0270425,,Approved,,,CCC1(C(=O)NCNC1=O)C2=CC=CC=C2
+Ezogabine,DB04953,Epilepsy,C0014544,NCT01494584,Terminated,Phase 2,Terminated after placing the study on hold at the request of the FDA,CCOC(=O)NC1=C(C=C(C=C1)NCC2=CC=C(C=C2)F)N
+Sulfur,DB09353,Scurfiness of scalp,C0423775,,Approved,,,[S]
+Clofarabine,DB00631,leukemia,C0023418,NCT00626626,Terminated,Phase 1/Phase 2,Investigator decision,C1=NC2=C(N=C(N=C2N1[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)F)Cl)N
+Duloxetine,DB00476,Major Depressive Disorder,C1269683,,Approved,,,CNCC[C@@H](C1=CC=CS1)OC2=CC=CC3=CC=CC=C32
+Cytarabine,DB00987,adult acute basophilic leukemia,C0279631,NCT00096148,Terminated,Phase 2,Administratively complete.,C1=CN(C(=O)N=C1N)[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)O
+Homoharringtonine,DB04865,adult acute megakaryoblastic leukemia (M7),C0279632,NCT02029417,Terminated,Phase 2,Major revisions needed in study,CC(C)(CCC[C@@](CC(=O)OC)(C(=O)O[C@H]1[C@H]2C3=CC4=C(C=C3CCN5[C@@]2(CCC5)C=C1OC)OCO4)O)O
+Remifentanil,DB00899,Acute postoperative pain,C2215257,,Approved,,,CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC(=O)OC)C(=O)OC
+Chlorpromazine,DB00477,Psychotic Disorders,C0033975,,Approved,,,CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl
+Carisoprodol,DB00395,Muscle Spasticity,C0026838,,Approved,,,CCCC(C)(COC(=O)N)COC(=O)NC(C)C
+Pregabalin,DB00230,Spinal Cord Injuries,C0037929,NCT00879021,Terminated,Phase 3,lack of funding and patients,CC(C)C[C@@H](CC(=O)O)CN
+Topiramate,DB00273,Hypertriglyceridemia,C0020557,NCT00231621,Terminated,Phase 3,The study was terminated prior to completion to focus on the development of a controlled    release formulation.,CC1(O[C@@H]2CO[C@@]3([C@H]([C@@H]2O1)OC(O3)(C)C)COS(=O)(=O)N)C
+Gemcitabine,DB00441,stage IV adult diffuse small cleaved cell lymphoma,C0280173,NCT00060112,Terminated,Phase 1,Administratively complete.,C1=CN(C(=O)N=C1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F
+Clindamycin,DB01190,Septicemia due to anaerobes,C0152967,,Approved,,,CCC[C@@H]1C[C@H](N(C1)C)C(=O)N[C@@H]([C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)SC)O)O)O)[C@H](C)Cl
+Tetracycline,DB00759,Infective otitis media,C0729586,,Approved,,,C[C@@]1([C@H]2C[C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O
+Doxorubicin,DB00997,Secondary malignant neoplasm of lung,C0153676,NCT01258634,Terminated,Phase 1,PI no longer affiliated with institution; only 2 subjects enrolled,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O
+Folic Acid,DB00158,Secondary malignant neoplasm of liver,C0494165,NCT00735241,Withdrawn,Phase 2/Phase 3,Withdrawn by the study sponsor.,C1=CC(=CC=C1C(=O)N[C@@H](CCC(=O)O)C(=O)O)NCC2=CN=C3C(=N2)C(=O)NC(=N3)N
+Carboplatin,DB00958,untreated childhood supratentorial primitive neuroectodermal tumors,C0338333,NCT00392327,Suspended,Phase 3,Temporarily stopped for assessment,C1CC(C1)(C(=O)O)C(=O)O.[NH2-].[NH2-].[Pt+2]
+Itraconazole,DB01167,Onychomycosis of fingernails,C1274469,,Approved,,,CCC(C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OC[C@H]5CO[C@](O5)(CN6C=NC=N6)C7=C(C=C(C=C7)Cl)Cl
+Lactulose,DB00581,Hyperammonemia,C0220994,,Approved,,,C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@@]([C@H]2O)(CO)O)CO)O)O)O)O
+Desonide,DB01260,Crohn's disease in remission,C1960764,,Approved,,,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)CO)CCC5=CC(=O)C=C[C@]35C)O
+Ambrisentan,DB06403,Pulmonary arterial hypertension,C2973725,,Approved,,,CC1=CC(=NC(=N1)O[C@H](C(=O)O)C(C2=CC=CC=C2)(C3=CC=CC=C3)OC)C
+Nisoldipine,DB00401,Hypertensive disease,C0020538,,Approved,,,CC1=C(C(C(=C(N1)C)C(=O)OCC(C)C)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC
+Metformin,DB00331,recurrent ovarian germ cell tumor,C0279975,NCT02050009,Withdrawn,Phase 1,,CN(C)C(=N)N=C(N)N
+Caspofungin,DB00520,Candidiasis of the esophagus,C0239295,,Approved,,,CC[C@H](C)C[C@H](C)CCCCCCCCC(=O)N[C@H]1C[C@H]([C@H](NC(=O)[C@@H]2[C@H](CCN2C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H]3C[C@H](CN3C(=O)[C@@H](NC1=O)[C@@H](C)O)O)[C@@H]([C@H](C4=CC=C(C=C4)O)O)O)[C@@H](CCN)O)O)NCCN)O
+Aztreonam,DB00355,Urinary tract infection,C0042029,,Approved,,,C[C@H]1[C@@H](C(=O)N1S(=O)(=O)O)NC(=O)/C(=N\OC(C)(C)C(=O)O)/C2=CSC(=N2)N
+Triamcinolone,DB00620,Asthma,C0004096,,Approved,,,C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@H]([C@@]2(C(=O)CO)O)O)CCC4=CC(=O)C=C[C@@]43C)F)O
+Travoprost,DB00287,Ocular Hypertension,C0028840,,Approved,,,CC(C)OC(=O)CCC/C=C\C[C@H]1[C@H](C[C@H]([C@@H]1/C=C/[C@H](COC2=CC=CC(=C2)C(F)(F)F)O)O)O
+Tacrolimus,DB00864,Splenic Marginal Zone B-Cell Lymphoma,C0349632,NCT01652014,Suspended,Phase 2,Funding unavailable,C[C@@H]1C[C@@H]([C@@H]2[C@H](C[C@H]([C@@](O2)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@@H]([C@@H]([C@H](CC(=O)[C@@H](/C=C(/C1)\C)CC=C)O)C)/C(=C/[C@@H]4CC[C@H]([C@@H](C4)OC)O)/C)O)C)OC)OC
+Rifaximin,DB01220,Diarrhoea predominant irritable bowel syndrome,C1262211,,Approved,,,C[C@H]1/C=C/C=C(\C(=O)NC2=C(C3=C(C4=C(C(=C3O)C)O[C@@](C4=O)(O/C=C/[C@@H]([C@H]([C@H]([C@@H]([C@@H]([C@@H]([C@H]1O)C)O)C)OC(=O)C)C)OC)C)C5=C2N6C=CC(=CC6=N5)C)O)/C
+Benazepril,DB00542,"unspecified adult solid tumor, protocol specific",C0279004,NCT01234922,Terminated,Phase 2,slow accrual,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@H]2CCC3=CC=CC=C3N(C2=O)CC(=O)O
+Ciprofloxacin,DB00537,Bacterial infection due to Klebsiella pneumoniae,C0343402,,Approved,,,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O
+Fluorouracil,DB00544,duct cell adenocarcinoma of the pancreas,C0279176,NCT01893294,Terminated,Phase 1,Funding discontinued; all patients off study,C1=C(C(=O)NC(=O)N1)F
+Betamethasone,DB00443,Pruritus of genital organs,C0033777,,Approved,,,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C
+Cortisone acetate,DB01380,Autoimmune Diseases,C0004364,,Approved,,,CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
+Sodium stibogluconate,DB05630,Leishmaniasis,C0023281,,Approved,,,C([C@H]([C@@H]1[C@@H]([C@@H](O[Sb](=O)(O1)O[Sb]2(=O)O[C@@H]([C@@H]([C@@H](O2)C(=O)[O-])O)[C@@H](CO)O)C(=O)[O-])O)O)O.O.O.O.O.O.O.O.O.O.[Na+].[Na+].[Na+]
+Methylprednisolone,DB00959,Pemphigus,C0030807,,Approved,,,C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)CO)O
+Nitric Oxide,DB00435,Chronic ulcer of lower extremity,C0263560,NCT00823095,Terminated,Phase 2,Subject recuitment halted and won't resume; subjects are no longer being treated.,[N]=O
+Ofloxacin,DB01165,Gonorrhea of rectum,C0275665,,Approved,,,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O
+Ziprasidone,DB00246,Schizoaffective Disorder,C0036337,NCT00645229,Terminated,Phase 3,Please see Detailed Description for termination reason.,C1CN(CCN1CCC2=C(C=C3C(=C2)CC(=O)N3)Cl)C4=NSC5=CC=CC=C54
+Methylnaltrexone,DB06800,Drug-induced constipation,C0267511,,Approved,,,C[N+]1(CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)O)O4)O)CC6CC6
+Riboflavin,DB00140,Corneal ectasia,C0155135,NCT00679666,Withdrawn,Phase 2/Phase 3,Investigator no longer at university,CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)C[C@@H]([C@@H]([C@@H](CO)O)O)O
+Hydrocortisone,DB00741,Thyroiditis,C0040147,,Approved,,,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O
+Dabrafenib,DB08912,"Malignant melanoma, metastatic",C0860594,,Approved,,,CC(C)(C)C1=NC(=C(S1)C2=NC(=NC=C2)N)C3=C(C(=CC=C3)NS(=O)(=O)C4=C(C=CC=C4F)F)F
+Chlorcyclizine,DB08936,Rhinorrhea,C1260880,,Approved,,,CN1CCN(CC1)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl
+Metoprolol,DB00264,Obesity,C0028754,NCT00993421,Terminated,Phase 2,Clinical trial terminated due to results from recent nonclinical studies,CC(C)NCC(COC1=CC=C(C=C1)CCOC)O
+Calcipotriol,DB02300,Psoriasis,C0033860,NCT01368887,Suspended,Phase 2,Sponsor seeking additional financial support before starting the study,C[C@H](/C=C/[C@H](C1CC1)O)[C@H]2CC[C@@H]\3[C@@]2(CCC/C3=C\C=C/4\C[C@H](C[C@@H](C4=C)O)O)C
+Methylprednisolone,DB00959,Fever,C0015967,NCT02212210,Terminated,Phase 0,PI permanently closed accrual for the study based on FDA warning issued in April 2014. Study    remains open; PI is currently editing the manuscript.,C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)CO)O
+Acetaminophen,DB00316,Sinus headache,C0037195,,Approved,,,CC(=O)NC1=CC=C(C=C1)O
+Ceftizoxime,DB01332,Staphylococcus aureus infection,C1318973,,Approved,,,CO/N=C(/C1=CSC(=N1)N)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=CCS3)C(=O)O
+Papaverine,DB01113,Cerebral Ischemia,C0917798,,Approved,,,COC1=C(C=C(C=C1)CC2=NC=CC3=CC(=C(C=C32)OC)OC)OC
+Sulconazole,DB06820,Tinea cruris,C1384589,,Approved,,,C1=CC(=CC=C1CSC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl)Cl
+Prednisone,DB00635,"Lymphoma, Follicular",C0024301,,Approved,,,C[C@]12CC(=O)[C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C
+Sunitinib,DB01268,Recurrent disease,C0277556,NCT00408252,Terminated,Phase 2,Too frequent grade 3-4 toxicities,CCN(CC)CCNC(=O)C1=C(NC(=C1C)/C=C\2/C3=C(C=CC(=C3)F)NC2=O)C
+Mycophenolic acid,DB01024,Angioimmunoblastic Lymphadenopathy,C0020981,NCT01652014,Suspended,Phase 2,Funding unavailable,CC1=C2COC(=O)C2=C(C(=C1OC)C/C=C(\C)/CCC(=O)O)O
+Pentostatin,DB00552,Acute GVH disease,C0856825,NCT00032773,Terminated,Phase 1/Phase 2,,C1[C@@H]([C@H](O[C@H]1N2C=NC3=C2NC=NC[C@H]3O)CO)O
+Cortisone acetate,DB01380,Acne Vulgaris,C0001144,,Approved,,,CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
+Clozapine,DB00363,Schizophrenia,C0036341,NCT00000372,Withdrawn,Phase 3,"Pairing D-Cycloserine with Clozapine was found to worsen negative side effects in patients    with Schizophrenia, so the study was suspended.",CN1CCN(CC1)C2=NC3=C(C=CC(=C3)Cl)NC4=CC=CC=C42
+Ketoprofen,DB01009,Pain,C0030193,,Approved,,,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O
+Meloxicam,DB00814,Degenerative polyarthritis,C0029408,,Approved,,,CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O
+Mupirocin,DB00410,Impetigo,C0021099,,Approved,,,C[C@H]([C@H]1[C@@H](O1)C[C@H]2CO[C@H]([C@@H]([C@@H]2O)O)C/C(=C/C(=O)OCCCCCCCCC(=O)O)/C)[C@H](C)O
+Teicoplanin,DB06149,"Skin Diseases, Infectious",C0037278,NCT00430937,Terminated,Phase 3,,CCCCCCCCCC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1OC2=C3C=C4C=C2OC5=C(C=C(C=C5)[C@H]([C@H]6C(=O)N[C@@H](C7=C(C(=CC(=C7)O)OC8[C@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)C9=C(C=CC(=C9)[C@H](C(=O)N6)NC(=O)[C@@H]4NC(=O)[C@@H]1C2=CC(=CC(=C2)OC2=C(C=CC(=C2)[C@H](C(=O)N[C@H](CC2=CC(=C(O3)C=C2)Cl)C(=O)N1)N)O)O)O)C(=O)O)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)NC(=O)C)Cl)CO)O)O
+Mestranol,DB01357,Menorrhagia,C0025323,,Approved,,,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)OC
+Duloxetine,DB00476,MUSCULOSKELETAL PAIN CHRONIC,C0746683,,Approved,,,CNCC[C@@H](C1=CC=CS1)OC2=CC=CC3=CC=CC=C32
+Prednicarbate,DB01130,"Dermatitis, Atopic",C0011615,,Approved,,,CCC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]34C)O)C)OC(=O)OCC
+Fusidic Acid,DB02703,Tularemia,C0041351,,Approved,,,C[C@H]1[C@@H]2CC[C@]3([C@H]([C@]2(CC[C@H]1O)C)[C@@H](C[C@@H]\4[C@@]3(C[C@@H](/C4=C(/CCC=C(C)C)\C(=O)O)OC(=O)C)C)O)C
+Fusidic Acid,DB02703,Corneal abrasion,C0010032,,Approved,,,C[C@H]1[C@@H]2CC[C@]3([C@H]([C@]2(CC[C@H]1O)C)[C@@H](C[C@@H]\4[C@@]3(C[C@@H](/C4=C(/CCC=C(C)C)\C(=O)O)OC(=O)C)C)O)C
+Dexmedetomidine,DB00633,"Subarachnoid Hemorrhage, Aneurysmal",C0751530,NCT01565590,Terminated,Phase 3,"Slow enrollment along with new competing studies, investigators decided to stop study",CC1=C(C(=CC=C1)[C@H](C)C2=CN=CN2)C
+Erlotinib,DB00530,Adenocarcinoma of pancreas,C0281361,,Approved,,,COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC
+Diltiazem,DB00343,Angina Pectoris,C0002962,,Approved,,,CC(=O)O[C@@H]1[C@@H](SC2=CC=CC=C2N(C1=O)CCN(C)C)C3=CC=C(C=C3)OC
+Cyclophosphamide,DB00531,Multiple Myeloma,C0026764,,Approved,,,C1CNP(=O)(OC1)N(CCCl)CCCl
+Olodaterol,DB09080,Chronic Obstructive Airway Disease,C0024117,,Approved,,,CC(C)(CC1=CC=C(C=C1)OC)NC[C@@H](C2=C3C(=CC(=C2)O)NC(=O)CO3)O
+Naltrexone,DB00704,Crohn Disease,C0010346,NCT01810185,Withdrawn,Phase 2,Low patient enrollment,C1CC1CN2CC[C@]34[C@@H]5C(=O)CC[C@]3([C@H]2CC6=C4C(=C(C=C6)O)O5)O
+Pegfilgrastim,DB00019,Multiple Myeloma,C0026764,NCT01537861,Terminated,Phase 0,Unexpected toxicity (2 early deaths),C[C@H]([C@@H](C(=O)O)N)O[C@@H]1[C@@H]([C@H]([C@H]([C@H](O1)CO[C@@]2(C[C@@H]([C@H]([C@@H](O2)[C@@H]([C@@H](CO)O)O)NC(=O)CNC(=O)OCCOC)O)C(=O)O)O)O)NC(=O)C
+Fluorouracil,DB00544,Stage IIIB Rectal Cancer,C3897528,NCT00068692,Terminated,Phase 3,Administratively complete.,C1=C(C(=O)NC(=O)N1)F
+Indomethacin,DB00328,Tenosynovitis,C0039520,,Approved,,,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
+Metolazone,DB00524,Hypertensive disease,C0020538,,Approved,,,CC1NC2=CC(=C(C=C2C(=O)N1C3=CC=CC=C3C)S(=O)(=O)N)Cl
+Verapamil,DB00661,Angina Pectoris,C0002962,,Approved,,,CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC
+Sunitinib,DB01268,Verrucous carcinoma of the oral cavity stage III,C0280355,NCT00906360,Terminated,Phase 1,,CCN(CC)CCNC(=O)C1=C(NC(=C1C)/C=C\2/C3=C(C=CC(=C3)F)NC2=O)C
+Fluoxetine,DB00472,Depressive disorder,C0011581,,Approved,,,CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F
+Finasteride,DB01216,Prostatic Hypertrophy,C1739363,,Approved,,,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)NC(C)(C)C)CC[C@@H]4[C@@]3(C=CC(=O)N4)C
+Sitagliptin,DB01261,Cystic Fibrosis,C0010674,NCT01257464,Terminated,Phase 2,Lack of recruitment,C1CN2C(=NN=C2C(F)(F)F)CN1C(=O)C[C@@H](CC3=CC(=C(C=C3F)F)F)N
+Cefradine,DB01333,Proteus urinary tract infection,C0577709,,Approved,,,CC1=C(N2[C@@H]([C@@H](C2=O)NC(=O)[C@@H](C3=CCC=CC3)N)SC1)C(=O)O
+Indomethacin,DB00328,Gout,C0018099,,Approved,,,CC1=C(C2=C(N1C(=O)C3=CC=C(C=C3)Cl)C=CC(=C2)OC)CC(=O)O
+Promazine,DB00420,Allergic rhinitis (disorder),C2607914,,Approved,,,CN(C)CCCN1C2=CC=CC=C2SC3=CC=CC=C31
+Doxycycline,DB00254,Gonorrhea of rectum,C0275665,,Approved,,,C[C@@H]1[C@H]2[C@@H]([C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O
+Cefuroxime,DB01112,Streptococcal meningitis,C0154639,,Approved,,,CO/N=C(/C1=CC=CO1)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)COC(=O)N)C(=O)O
+Ampicillin,DB00415,Escherichia coli septicemia,C0276088,,Approved,,,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=CC=C3)N)C(=O)O)C
+Procyclidine,DB00387,"Parkinson Disease, Postencephalitic",C0030568,,Approved,,,C1CCC(CC1)C(CCN2CCCC2)(C3=CC=CC=C3)O
+Azatadine,DB00719,Common Cold,C0009443,,Approved,,,CN1CCC(=C2C3=CC=CC=C3CCC4=C2N=CC=C4)CC1
+Oxytetracycline,DB00595,Q Fever,C0034362,,Approved,,,C[C@@]1([C@H]2[C@@H]([C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O)O
+Tigecycline,DB00560,Intraabdominal Infections,C1112209,,Approved,,,CC(C)(C)NCC(=O)NC1=CC(=C2C[C@H]3C[C@H]4[C@@H](C(=O)C(=C([C@]4(C(=O)C3=C(C2=C1O)O)O)O)C(=O)N)N(C)C)N(C)C
+Cytarabine,DB00987,Atypical Burkitt's lymphoma,C1629504,NCT00126191,Terminated,Phase 2,closed due to slow accrual,C1=CN(C(=O)N=C1N)[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)O
+Clotrimazole,DB00257,Tinea Pedis,C0040259,,Approved,,,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3Cl)N4C=CN=C4
+Cortisone acetate,DB01380,Malignant otitis externa due to Pseudomonas aeruginosa,C0395818,,Approved,,,CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
+Mifepristone,DB00834,"Affective Disorders, Psychotic",C0001723,NCT00867360,Terminated,Phase 3,,CC#C[C@@]1(CC[C@@H]2[C@@]1(C[C@@H](C3=C4CCC(=O)C=C4CC[C@@H]23)C5=CC=C(C=C5)N(C)C)C)O
+Ifosfamide,DB01181,"soft tissue sarcoma, adult, stage IIB",C0796438,NCT00017160,Withdrawn,Phase 2,,C1CN(P(=O)(OC1)NCCCl)CCCl
+Decitabine,DB01262,adult acute myeloid leukemia with 11q23 (MLL) abnormalities,C1541334,NCT00049582,Terminated,Phase 1,,C1[C@@H]([C@H](O[C@H]1N2C=NC(=NC2=O)N)CO)O
+Oxycodone,DB00497,Pain,C0030193,NCT02240602,Withdrawn,Phase 3,Lack of internal resources,CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O
+Sulfacetamide,DB00634,Iridocyclitis,C0022073,,Approved,,,CC(=O)NS(=O)(=O)C1=CC=C(C=C1)N
+Bosentan,DB00559,Scleroderma,C0011644,,Approved,,,CC(C)(C)C1=CC=C(C=C1)S(=O)(=O)NC2=C(C(=NC(=N2)C3=NC=CC=N3)OCCO)OC4=CC=CC=C4OC
+Homoharringtonine,DB04865,adult acute myeloid leukemia with inv(16)(p13;q22),C1541333,NCT02029417,Terminated,Phase 2,Major revisions needed in study,CC(C)(CCC[C@@](CC(=O)OC)(C(=O)O[C@H]1[C@H]2C3=CC4=C(C=C3CCN5[C@@]2(CCC5)C=C1OC)OCO4)O)O
+Butabarbital,DB00237,Sleeplessness,C0917801,,Approved,,,CCC(C)C1(C(=O)NC(=O)NC1=O)CC
+Cefazolin,DB01327,Gram-Positive Bacterial Infections,C0085426,NCT00108433,Terminated,Phase 3,See Detailed Description,CC1=NN=C(S1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)CN4C=NN=N4)SC2)C(=O)O
+Decitabine,DB01262,recurrent adult acute myeloid leukemia,C0278780,NCT00049582,Terminated,Phase 1,,C1[C@@H]([C@H](O[C@H]1N2C=NC(=NC2=O)N)CO)O
+Bicalutamide,DB01128,Metastatic Prostate Carcinoma,C0936223,,Approved,,,CC(CS(=O)(=O)C1=CC=C(C=C1)F)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O
+Aztreonam,DB00355,Pelvic Inflammatory Disease,C0242172,,Approved,,,C[C@H]1[C@@H](C(=O)N1S(=O)(=O)O)NC(=O)/C(=N\OC(C)(C)C(=O)O)/C2=CSC(=N2)N
+Gefitinib,DB00317,mucinous adenocarcinoma of rectum,C0279652,NCT00052585,Terminated,Phase 2,Administratively complete.,COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4
+Isoprenaline,DB01064,Common Cold,C0009443,,Approved,,,CC(C)NCC(C1=CC(=C(C=C1)O)O)O
+Cisplatin,DB00515,Stage IVB Nasal Cavity and Paranasal Sinus Squamous Cell Carcinoma,C3897515,NCT01728480,Withdrawn,Phase 1,Financial Sponsor requested termination,N.N.Cl[Pt]Cl
+Cefotetan,DB01330,Haemophilus influenzae pneumonia,C0276026,,Approved,,,CN1C(=NN=N1)SCC2=C(N3[C@@H]([C@@](C3=O)(NC(=O)C4SC(=C(C(=O)N)C(=O)O)S4)OC)SC2)C(=O)O
+Cyclophosphamide,DB00531,noncontiguous stage II adult diffuse large cell lymphoma,C0677709,NCT00080847,Terminated,Phase 2,,C1CNP(=O)(OC1)N(CCCl)CCCl
+Cyclophosphamide,DB00531,Stage IV Skin Melanoma,C1321872,NCT01271907,Terminated,Phase 2,Study was terminated due to poor accrual.,C1CNP(=O)(OC1)N(CCCl)CCCl
+Bortezomib,DB00188,recurrent grade 1 follicular lymphoma,C0280182,NCT01397591,Terminated,Phase 2,Study closed by PI due to lower than expected accrual.,B([C@H](CC(C)C)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C2=NC=CN=C2)(O)O
+Prazepam,DB01588,Anxiety,C0003467,,Approved,,,C1CC1CN2C(=O)CN=C(C3=C2C=CC(=C3)Cl)C4=CC=CC=C4
+Piperacillin,DB00319,Arthropathy associated with infection,C0157749,,Approved,,,CCN1CCN(C(=O)C1=O)C(=O)N[C@H](C2=CC=CC=C2)C(=O)N[C@H]3[C@@H]4N(C3=O)[C@H](C(S4)(C)C)C(=O)O
+Hydroxychloroquine,DB01611,Antiphospholipid Syndrome,C0085278,NCT01784523,Terminated,Phase 3,low recruitment rate exacerbated by manufacturing shortage and price increase of    hydroxychloroquine.,CCN(CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl)CCO
+Oxytetracycline,DB00595,Rocky Mountain Spotted Fever,C0035793,,Approved,,,C[C@@]1([C@H]2[C@@H]([C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O)O
+Biperiden,DB00810,"Parkinson Disease, Postencephalitic",C0030568,,Approved,,,C1CCN(CC1)CCC(C2CC3CC2C=C3)(C4=CC=CC=C4)O
+Vitamin C,DB00126,Disorder of vitamin C,C1272557,NCT01537094,Withdrawn,Phase 2,Unable to obtain funding to initiate the study. No subjects were enrolled.,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O
+Tobramycin,DB00684,Corneal Perforation,C0339293,,Approved,,,C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)N)O)O)O[C@@H]3[C@@H](C[C@@H]([C@H](O3)CN)O)N)N
+Eluxadoline,DB09272,Irritable bowel syndrome with diarrhea,C0348898,,Approved,,,CC1=CC(=CC(=C1C[C@@H](C(=O)N(CC2=CC(=C(C=C2)OC)C(=O)O)[C@@H](C)C3=NC=C(N3)C4=CC=CC=C4)N)C)C(=O)N
+Cisplatin,DB00515,Oropharyngeal squamous cell carcinoma stage III,C0280372,NCT01728480,Withdrawn,Phase 1,Financial Sponsor requested termination,N.N.Cl[Pt]Cl
+Hydroquinone,DB09526,Chloasma,C0025218,,Approved,,,C1=CC(=CC=C1O)O
+Telithromycin,DB00976,Haemophilus influenzae pneumonia,C0276026,,Approved,,,CC[C@@H]1[C@@]2([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H](C(=O)[C@H](C(=O)O1)C)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)OC)C)C)N(C(=O)O2)CCCCN4C=C(N=C4)C5=CN=CC=C5)C
+Fluticasone Propionate,DB00588,Allergic rhinitis (disorder),C2607914,,Approved,,,CCC(=O)O[C@@]1([C@@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2C[C@@H](C4=CC(=O)C=C[C@@]43C)F)F)O)C)C)C(=O)SCF
+Lorazepam,DB00186,Anxiety,C0003467,,Approved,,,C1=CC=C(C(=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O)Cl
+Thalidomide,DB01041,recurrent adult diffuse mixed cell lymphoma,C0280187,NCT01419795,Terminated,Phase 2,Low accrual,C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O
+Betamethasone,DB00443,Musculoskeletal Diseases,C0026857,,Approved,,,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C
+Theophylline,DB00277,Non-Small Cell Lung Carcinoma,C0007131,NCT01799161,Withdrawn,Phase 1,Insufficient funding,CN1C2=C(C(=O)N(C1=O)C)NC=N2
+Aztreonam,DB00355,Serratia sepsis,C0152973,,Approved,,,C[C@H]1[C@@H](C(=O)N1S(=O)(=O)O)NC(=O)/C(=N\OC(C)(C)C(=O)O)/C2=CSC(=N2)N
+Decitabine,DB01262,untreated adult acute myeloid leukemia,C0279089,NCT02029417,Terminated,Phase 2,Major revisions needed in study,C1[C@@H]([C@H](O[C@H]1N2C=NC(=NC2=O)N)CO)O
+Norfloxacin,DB01059,prostatitis,C0033581,,Approved,,,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O
+Trovafloxacin,DB00685,Postoperative infection,C0392618,,Approved,,,C1[C@@H]2[C@@H](C2N)CN1C3=C(C=C4C(=O)C(=CN(C4=N3)C5=C(C=C(C=C5)F)F)C(=O)O)F
+Hydroxychloroquine,DB01611,"unspecified adult solid tumor, protocol specific",C0279004,NCT01417403,Terminated,Phase 1,Recently published data that has shown HCQ to be safe when combined with chemo and or    radiation at even higher doses than what is used in this study.,CCN(CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl)CCO
+Doxycycline,DB00254,Q Fever,C0034362,,Approved,,,C[C@@H]1[C@H]2[C@@H]([C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O
+Chlorzoxazone,DB00356,Muscle Spasticity,C0026838,,Approved,,,C1=CC2=C(C=C1Cl)NC(=O)O2
+Cefpodoxime,DB01416,Pharyngitis,C0031350,,Approved,,,COCC1=C(N2[C@@H]([C@@H](C2=O)NC(=O)/C(=N\OC)/C3=CSC(=N3)N)SC1)C(=O)O
+Loratadine,DB00455,Common Cold,C0009443,,Approved,,,CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1
+Hydroxyurea,DB01005,Pulmonary Hypertension,C0020542,NCT00350844,Terminated,Phase 1/Phase 2,Low subject accrual,C(=O)(N)NO
+Mezlocillin,DB00948,Bacterial sepsis,C0684256,,Approved,,,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=CC=C3)NC(=O)N4CCN(C4=O)S(=O)(=O)C)C(=O)O)C
+Desonide,DB01260,Lichen Simplex Chronicus,C0149922,,Approved,,,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)CO)CCC5=CC(=O)C=C[C@]35C)O
+Allopurinol,DB00437,recurrent adult acute myeloid leukemia,C0278780,NCT01564277,Terminated,Phase 2,low accrual,C1=NNC2=C1C(=O)NC=N2
+Allopurinol,DB00437,stage IV adult Burkitt's lymphoma,C0280179,NCT01564277,Terminated,Phase 2,low accrual,C1=NNC2=C1C(=O)NC=N2
+Natamycin,DB00826,Fungal keratitis,C1262117,,Approved,,,C[C@@H]1C/C=C/C=C/C=C/C=C/[C@@H](C[C@H]2[C@@H]([C@H](C[C@](O2)(C[C@H](C[C@@H]3[C@H](O3)/C=C/C(=O)O1)O)O)O)C(=O)O)O[C@H]4[C@H]([C@H]([C@@H]([C@H](O4)C)O)N)O
+Gatifloxacin,DB01044,Legionella pneumophila pneumonia,C0857846,,Approved,,,CC1CN(CCN1)C2=C(C=C3C(=C2OC)N(C=C(C3=O)C(=O)O)C4CC4)F
+Salicylic acid,DB00936,Seborrheic dermatitis,C0036508,,Approved,,,C1=CC=C(C(=C1)C(=O)O)O
+Ceftizoxime,DB01332,Arthropathy associated with infection,C0157749,,Approved,,,CO/N=C(/C1=CSC(=N1)N)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=CCS3)C(=O)O
+Desloratadine,DB00967,Allergic urticaria,C0149526,,Approved,,,C1CC2=C(C=CC(=C2)Cl)C(=C3CCNCC3)C4=C1C=CC=N4
+Mezlocillin,DB00948,Enterobacter pneumonia,C1096258,,Approved,,,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=CC=C3)NC(=O)N4CCN(C4=O)S(=O)(=O)C)C(=O)O)C
+Dopamine,DB00988,Hypotension,C0020649,,Approved,,,C1=CC(=C(C=C1CCN)O)O
+Erythromycin,DB00199,Urinary tract infection,C0042029,,Approved,,,CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O
+Prednisone,DB00635,stage III adult diffuse large cell lymphoma,C0280162,NCT00080847,Terminated,Phase 2,,C[C@]12CC(=O)[C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C
+Levofloxacin,DB01137,Staphylococcus aureus infection,C1318973,,Approved,,,C[C@H]1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O
+Ofloxacin,DB01165,Infection of skin AND/OR subcutaneous tissue,C0178299,,Approved,,,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O
+Haloprogin,DB00793,Tinea cruris,C1384589,,Approved,,,C1=C(C(=CC(=C1Cl)Cl)Cl)OCC#CI
+Tazobactam,DB01606,Infection of skin AND/OR subcutaneous tissue,C0178299,,Approved,,,C[C@@]1([C@@H](N2[C@H](S1(=O)=O)CC2=O)C(=O)O)CN3C=CN=N3
+Phenobarbital,DB01174,Epilepsy,C0014544,,Approved,,,CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2
+Panobinostat,DB06603,Chronic graft-versus-host disease,C0867389,NCT01028313,Withdrawn,Phase 2,A decision was made to not move forward with the study. No participants were enrolled or    treated.,CC1=C(C2=CC=CC=C2N1)CCNCC3=CC=C(C=C3)/C=C/C(=O)NO
+Amphotericin B,DB00681,Infection by Cryptococcus neoformans,C0010414,,Approved,,,C[C@H]1/C=C/C=C/C=C/C=C/C=C/C=C/C=C/[C@@H](C[C@H]2[C@@H]([C@H](C[C@](O2)(C[C@H](C[C@H]([C@@H](CC[C@H](C[C@H](CC(=O)O[C@H]([C@@H]([C@@H]1O)C)C)O)O)O)O)O)O)O)C(=O)O)O[C@H]3[C@H]([C@H]([C@@H]([C@H](O3)C)O)N)O
+Mometasone,DB00764,Intrinsic asthma,C0155880,,Approved,,,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CCl)O)C)O)Cl)C
+Amitriptyline,DB00321,Transformed migraine,C1960870,NCT01151787,Terminated,Phase 3,Study was never initiated under new location/provider group. Contract to continue was never    signed between TEVA and Kennedy Headache Center,CN(C)CCC=C1C2=CC=CC=C2CCC3=CC=CC=C31
+Doxepin,DB01142,Depressive disorder,C0011581,,Approved,,,CN(C)CC/C=C/1\C2=CC=CC=C2COC3=CC=CC=C31
+Alendronic acid,DB00630,Osteopenia,C0029453,NCT00000430,Terminated,Phase 3,,C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN
+Erlotinib,DB00530,Non-small cell lung cancer recurrent,C0278517,NCT00976677,Terminated,Phase 2,,COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC
+Gemcitabine,DB00441,"unspecified adult solid tumor, protocol specific",C0279004,NCT02048943,Withdrawn,Phase 1,Lack of funding,C1=CN(C(=O)N=C1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F
+Daunorubicin,DB00694,Acute Erythroblastic Leukemia,C0023440,,Approved,,,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N)O
+Aminolevulinic acid,DB00855,adult anaplastic astrocytoma,C0280483,NCT01148966,Terminated,Phase 1/Phase 2,,C(CC(=O)O)C(=O)CN
+Cabergoline,DB00248,Hyperprolactinemia,C0020514,,Approved,,,CCNC(=O)N(CCCN(C)C)C(=O)[C@@H]1C[C@H]2[C@@H](CC3=CNC4=CC=CC2=C34)N(C1)CC=C
+Cisplatin,DB00515,Squamous cell carcinoma,C0007137,NCT00400205,Terminated,Phase 2,Safety reasons,N.N.Cl[Pt]Cl
+Azithromycin,DB00207,Acute bacterial sinusitis,C0275556,,Approved,,,CC[C@@H]1[C@@]([C@@H]([C@H](N(C[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O
+Lamotrigine,DB00555,Epilepsy,C0014544,,Approved,,,C1=CC(=C(C(=C1)Cl)Cl)C2=C(N=C(N=N2)N)N
+Prednisone,DB00635,Polymyalgia Rheumatica,C0032533,NCT01364389,Terminated,Phase 2,Data did not show that the two biologic treatments impacted PMR disease activity to the same    degree as steroid treatment within a 2-week treatment period.,C[C@]12CC(=O)[C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C
+Levoleucovorin,DB11596,Methotrexate poisoning,C0568062,,Approved,,,C1[C@@H](N(C2=C(N1)N=C(NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+Gemifloxacin,DB01155,Pneumonia due to Klebsiella pneumoniae,C0519030,,Approved,,,CO/N=C/1\CN(CC1CN)C2=C(C=C3C(=O)C(=CN(C3=N2)C4CC4)C(=O)O)F
+Azathioprine,DB00993,Lupus Nephritis,C0024143,NCT00368264,Terminated,Phase 2/Phase 3,Failure to recruit patients with membranous lupus nephritis not previously treated with    azathioprine .,CN1C=NC(=C1SC2=NC=NC3=C2NC=N3)[N+](=O)[O-]
+Pentamidine,DB00738,African Trypanosomiasis,C0041228,,Approved,,,C1=CC(=CC=C1C(=N)N)OCCCCCOC2=CC=C(C=C2)C(=N)N
+Dexamethasone,DB01234,Malignant neoplasm of lung,C0242379,NCT00215748,Terminated,Phase 2,slow accrual,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C
+gabapentin enacarbil,DB08872,Restless Legs Syndrome,C0035258,,Approved,,,CC(C)C(=O)OC(C)OC(=O)NCC1(CCCCC1)CC(=O)O
+Vorapaxar,DB09030,Cerebrovascular accident,C0038454,,Approved,,,CCOC(=O)N[C@@H]1CC[C@@H]2[C@@H](C1)C[C@@H]3[C@H]([C@H]2/C=C/C4=NC=C(C=C4)C5=CC(=CC=C5)F)[C@H](OC3=O)C
+Demeclocycline,DB00618,Relapsing Fever,C0035021,,Approved,,,CN(C)[C@H]1[C@@H]2C[C@@H]3[C@@H](C4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)Cl)O
+Erythromycin,DB00199,Infection of skin AND/OR subcutaneous tissue,C0178299,,Approved,,,CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O
+Irinotecan,DB00762,Stage IIIB Rectal Cancer,C3897528,NCT00068692,Terminated,Phase 3,Administratively complete.,CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)[C@@]4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7
+Gemcitabine,DB00441,Non-small cell lung cancer stage IIIA,C0278983,NCT01282333,Terminated,Phase 1,,C1=CN(C(=O)N=C1N)[C@H]2C([C@@H]([C@H](O2)CO)O)(F)F
+Nifedipine,DB01115,"Angina Pectoris, Variant",C0002963,,Approved,,,CC1=C(C(C(=C(N1)C)C(=O)OC)C2=CC=CC=C2[N+](=O)[O-])C(=O)OC
+Capsaicin,DB06774,Diabetic Neuropathies,C0011882,NCT00089557,Terminated,Phase 2,,CC(C)/C=C/CCCCC(=O)NCC1=CC(=C(C=C1)O)OC
+Meropenem,DB00760,Infection due to Pseudomonas aeruginosa,C0276075,,Approved,,,C[C@@H]1[C@@H]2[C@H](C(=O)N2C(=C1S[C@H]3C[C@H](NC3)C(=O)N(C)C)C(=O)O)[C@@H](C)O
+Cholecalciferol,DB00169,adult acute myeloblastic leukemia with maturation (M2),C0279624,NCT01521936,Terminated,Phase 2,Lack of funding,C[C@H](CCCC(C)C)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](CCC3=C)O)C
+Mycophenolic acid,DB01024,recurrent adult diffuse mixed cell lymphoma,C0280187,NCT01652014,Suspended,Phase 2,Funding unavailable,CC1=C2COC(=O)C2=C(C(=C1OC)C/C=C(\C)/CCC(=O)O)O
+Paclitaxel,DB01229,Kaposi Sarcoma,C0036220,,Approved,,,CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C
+Fluorouracil,DB00544,Colon cancer recurrent,C0278553,NCT01320683,Terminated,Phase 2,This study will not be written up.,C1=C(C(=O)NC(=O)N1)F
+Besifloxacin,DB06771,Bacterial conjunctivitis,C0009768,,Approved,,,C1CCN(C[C@@H](C1)N)C2=C(C=C3C(=C2Cl)N(C=C(C3=O)C(=O)O)C4CC4)F
+Cortisone acetate,DB01380,Addison Disease,C0001403,,Approved,,,CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
+Vorinostat,DB02546,adult acute myeloid leukemia with inv(16)(p13;q22),C1541333,NCT00673153,Terminated,Phase 2,,C1=CC=C(C=C1)NC(=O)CCCCCCC(=O)NO
+Tolnaftate,DB00525,Tinea Pedis,C0040259,,Approved,,,CC1=CC(=CC=C1)N(C)C(=S)OC2=CC3=CC=CC=C3C=C2
+Benzylpenicillin,DB01053,Granulomatosis infantiseptica,C1535478,,Approved,,,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C
+Norfloxacin,DB01059,Typhoid Fever,C0041466,,Approved,,,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O
+Deferasirox,DB01609,Iron Overload,C0282193,NCT01927913,Withdrawn,Phase 2,This study was withdrawn until the evaluation of the nonclinical rat findings is complete.,C1=CC=C(C(=C1)C2=NN(C(=N2)C3=CC=CC=C3O)C4=CC=C(C=C4)C(=O)O)O
+Betamethasone,DB00443,Thyroiditis,C0040147,,Approved,,,C[C@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C
+Tigecycline,DB00560,Haemophilus influenzae pneumonia,C0276026,,Approved,,,CC(C)(C)NCC(=O)NC1=CC(=C2C[C@H]3C[C@H]4[C@@H](C(=O)C(=C([C@]4(C(=O)C3=C(C2=C1O)O)O)O)C(=O)N)N(C)C)N(C)C
+Tioguanine,DB00352,"Leukemia, Myelocytic, Acute",C0023467,,Approved,,,C1=NC2=C(N1)C(=S)N=C(N2)N
+Thalidomide,DB01041,Monocytoid B-cell lymphoma,C0855139,NCT01419795,Terminated,Phase 2,Low accrual,C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O
+Irinotecan,DB00762,Malignant tumor of colon,C0007102,NCT01367275,Terminated,Phase 2,Sponsor closed study,CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)[C@@]4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7
+Ticarcillin,DB01607,Osteomyelitis due to Staphylococcus aureus,C1997728,,Approved,,,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CSC=C3)C(=O)O)C(=O)O)C
+Aprindine,DB01429,Supraventricular arrhythmia,C0428974,,Approved,,,CCN(CC)CCCN(C1CC2=CC=CC=C2C1)C3=CC=CC=C3
+Fludarabine,DB01073,recurrent adult immunoblastic large cell lymphoma,C0280190,NCT01652014,Suspended,Phase 2,Funding unavailable,C1=NC2=C(N=C(N=C2N1[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)O)F)N
+Cefonicid,DB01328,Escherichia coli urinary tract infection,C0577708,,Approved,,,C1C(=C(N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=CC=C3)O)C(=O)O)CSC4=NN=NN4CS(=O)(=O)O
+Amoxicillin,DB01060,Staphylococcus aureus infection,C1318973,,Approved,,,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=C(C=C3)O)N)C(=O)O)C
+Cortisone acetate,DB01380,"Lymphoma, T-Cell, Cutaneous",C0079773,,Approved,,,CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
+Magnesium Sulfate,DB00653,Severe pre-eclampsia,C0341950,,Approved,,,[O-]S(=O)(=O)[O-].[Mg+2]
+Erythromycin,DB00199,Gonorrhea,C0018081,,Approved,,,CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O
+Levoleucovorin,DB11596,Stage IIC Rectal Cancer,C3897535,NCT00068692,Terminated,Phase 3,Administratively complete.,C1[C@@H](N(C2=C(N1)N=C(NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+Milnacipran,DB04896,"Fibromyalgia, Primary",C0751152,NCT01331109,Terminated,Phase 2,,CCN(CC)C(=O)[C@@]1(C[C@@H]1CN)C2=CC=CC=C2
+Benzathine benzylpenicillin,DB09323,Streptococcal Infections,C0038395,,Approved,,,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)CC3=CC=CC=C3)C(=O)[O-])C.CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)CC3=CC=CC=C3)C(=O)[O-])C.C1=CC=C(C=C1)C[NH2+]CC[NH2+]CC2=CC=CC=C2
+Sunitinib,DB01268,Chronic lymphocytic leukaemia refractory,C0278791,NCT00387426,Terminated,Phase 2,,CCN(CC)CCNC(=O)C1=C(NC(=C1C)/C=C\2/C3=C(C=CC(=C3)F)NC2=O)C
+Griseofulvin,DB00400,Tinea corporis (disorder),C0040252,,Approved,,,C[C@@H]1CC(=O)C=C([C@]12C(=O)C3=C(O2)C(=C(C=C3OC)OC)Cl)OC
+Promazine,DB00420,Angioedema,C0002994,,Approved,,,CN(C)CCCN1C2=CC=CC=C2SC3=CC=CC=C31
+Cisapride,DB00604,Gastroesophageal reflux disease,C0017168,,Approved,,,CO[C@H]1CN(CC[C@H]1NC(=O)C2=CC(=C(C=C2OC)N)Cl)CCCOC3=CC=C(C=C3)F
+Ticarcillin,DB01607,Pelvic abscess,C0030785,,Approved,,,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CSC=C3)C(=O)O)C(=O)O)C
+Guanidine,DB00536,Lambert-Eaton Myasthenic Syndrome,C0022972,,Approved,,,C(=N)(N)N
+Naproxen,DB00788,Rhinorrhea,C1260880,,Approved,,,C[C@@H](C1=CC2=C(C=C1)C=C(C=C2)OC)C(=O)O
+Toremifene,DB00539,"Neoplasms, Hormone-Dependent",C0027661,NCT00267553,Terminated,Phase 3,This was a follow-on study to Biomed 777-CLP-029 which did not meet superiority endpoint,CN(C)CCOC1=CC=C(C=C1)/C(=C(/CCCl)\C2=CC=CC=C2)/C3=CC=CC=C3
+Amphotericin B,DB00681,Aspergillosis,C0004030,,Approved,,,C[C@H]1/C=C/C=C/C=C/C=C/C=C/C=C/C=C/[C@@H](C[C@H]2[C@@H]([C@H](C[C@](O2)(C[C@H](C[C@H]([C@@H](CC[C@H](C[C@H](CC(=O)O[C@H]([C@@H]([C@@H]1O)C)C)O)O)O)O)O)O)O)C(=O)O)O[C@H]3[C@H]([C@H]([C@@H]([C@H](O3)C)O)N)O
+Dapsone,DB00250,Dermatitis Herpetiformis,C0011608,,Approved,,,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N
+Reserpine,DB00206,Hypertensive disease,C0020538,,Approved,,,CO[C@H]1[C@@H](C[C@@H]2CN3CCC4=C([C@H]3C[C@@H]2[C@@H]1C(=O)OC)NC5=C4C=CC(=C5)OC)OC(=O)C6=CC(=C(C(=C6)OC)OC)OC
+Benzylpenicillin,DB01053,Tertiary lesion of yaws,C0343833,,Approved,,,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C
+Atorvastatin,DB01076,Angina Pectoris,C0002962,,Approved,,,CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)O)O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4
+Fludarabine,DB01073,Post-transplant lymphoproliferative disorder,C0432487,NCT01652014,Suspended,Phase 2,Funding unavailable,C1=NC2=C(N=C(N=C2N1[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)O)F)N
+Lenalidomide,DB00480,Angioimmunoblastic Lymphadenopathy,C0020981,NCT01419795,Terminated,Phase 2,Low accrual,C1CC(=O)NC(=O)C1N2CC3=C(C2=O)C=CC=C3N
+Amikacin,DB00479,Pseudomonas aeruginosa meningitis,C3665869,,Approved,,,C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1NC(=O)[C@H](CCN)O)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)N)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CN)O)O)O)N
+Amikacin,DB00479,Serratia Infections,C0085394,,Approved,,,C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1NC(=O)[C@H](CCN)O)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)N)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CN)O)O)O)N
+Acetazolamide,DB00819,Peripheral edema,C0085649,,Approved,,,CC(=O)NC1=NN=C(S1)S(=O)(=O)N
+Cefpodoxime,DB01416,Proteus urinary tract infection,C0577709,,Approved,,,COCC1=C(N2[C@@H]([C@@H](C2=O)NC(=O)/C(=N\OC)/C3=CSC(=N3)N)SC1)C(=O)O
+Paroxetine,DB00715,Depressive disorder,C0011581,,Approved,,,C1CNC[C@H]([C@@H]1C2=CC=C(C=C2)F)COC3=CC4=C(C=C3)OCO4
+Methylscopolamine bromide,DB00462,Common Cold,C0009443,,Approved,,,C[N+]1([C@H]2CC(C[C@H]1C3C2O3)OC(=O)[C@H](CO)C4=CC=CC=C4)C.[Br-]
+Mannitol,DB00742,Ocular Hypertension,C0028840,,Approved,,,C([C@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O)O
+Capecitabine,DB01101,Secondary malignant neoplasm of liver,C0494165,NCT00394992,Terminated,Phase 3,Data from the C08 study and Avant study,CCCCCOC(=O)NC1=NC(=O)N(C=C1F)[C@H]2[C@@H]([C@@H]([C@H](O2)C)O)O
+Cilastatin,DB01597,Haemophilus influenzae pneumonia,C0276026,,Approved,,,CC1(C[C@@H]1C(=O)N/C(=C\CCCCSC[C@@H](C(=O)O)N)/C(=O)O)C
+Erlotinib,DB00530,Squamous cell carcinoma of the hypopharynx recurrent,C0280392,NCT01332279,Withdrawn,Phase 1,Pharmaceutical co. withdrew support. Study was never activated and did not accrue any    patients.,COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC
+Dacarbazine,DB00851,Adenocarcinoma,C0001418,NCT00632203,Terminated,Phase 2,,CN(C)/N=N/C1=C(NC=N1)C(=O)N
+Scopolamine,DB00747,Irritable Bowel Syndrome,C0022104,,Approved,,,CN1[C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)[C@H](CO)C4=CC=CC=C4
+Cocaine,DB00907,Cocaine Dependence,C0600427,NCT00373581,Terminated,Phase 2,Funding ran out,CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)C3=CC=CC=C3)C(=O)OC
+Gatifloxacin,DB01044,Proteus urinary tract infection,C0577709,,Approved,,,CC1CN(CCN1)C2=C(C=C3C(=C2OC)N(C=C(C3=O)C(=O)O)C4CC4)F
+Mezlocillin,DB00948,Acute gonococcal cervicitis,C0153195,,Approved,,,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=CC=C3)NC(=O)N4CCN(C4=O)S(=O)(=O)C)C(=O)O)C
+Lapatinib,DB01259,Adenocarcinoma of the gastroesophageal junction,C1332166,NCT01395537,Terminated,Phase 1/Phase 2,Research Cancelled,CS(=O)(=O)CCNCC1=CC=C(O1)C2=CC3=C(C=C2)N=CN=C3NC4=CC(=C(C=C4)OCC5=CC(=CC=C5)F)Cl
+Temozolomide,DB00853,Metastatic malignant neoplasm to brain,C0220650,NCT00096265,Terminated,Phase 3,,CN1C(=O)N2C=NC(=C2N=N1)C(=O)N
+Dimethyl fumarate,DB08908,"Multiple Sclerosis, Relapsing-Remitting",C0751967,,Approved,,,COC(=O)/C=C/C(=O)OC
+Buprenorphine,DB00921,Heroin Dependence,C0019337,NCT00000331,Terminated,Phase 2,,C[C@]([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)(C(C)(C)C)O
+Cyclophosphamide,DB00531,Lupus Nephritis,C0024143,NCT00425438,Terminated,Phase 3,Study was terminated early for administrative reasons.,C1CNP(=O)(OC1)N(CCCl)CCCl
+Dextromethorphan,DB00514,Mouth irritation,C0235339,,Approved,,,CN1CC[C@@]23CCCC[C@@H]2[C@@H]1CC4=C3C=C(C=C4)OC
+Docetaxel,DB01248,Cancer of Head and Neck,C0278996,,Approved,,,CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)O
+Lenalidomide,DB00480,Malignant lymphoma of testis,C0349644,NCT01419795,Terminated,Phase 2,Low accrual,C1CC(=O)NC(=O)C1N2CC3=C(C2=O)C=CC=C3N
+Methylprednisolone,DB00959,"Lupus Erythematosus, Systemic",C0024141,,Approved,,,C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)CO)O
+Thalidomide,DB01041,recurrent grade 1 follicular lymphoma,C0280182,NCT01419795,Terminated,Phase 2,Low accrual,C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O
+Bilastine,DB11591,Urticaria,C0042109,,Approved,,,CCOCCN1C2=CC=CC=C2N=C1C3CCN(CC3)CCC4=CC=C(C=C4)C(C)(C)C(=O)O
+Homoharringtonine,DB04865,secondary acute myeloid leukemia,C0280449,NCT02029417,Terminated,Phase 2,Major revisions needed in study,CC(C)(CCC[C@@](CC(=O)OC)(C(=O)O[C@H]1[C@H]2C3=CC4=C(C=C3CCN5[C@@]2(CCC5)C=C1OC)OCO4)O)O
+Vincristine,DB00541,Adult Kidney Wilms Tumor,C1332219,NCT00945009,Suspended,Phase 3,Temporarily stopped for assessment,CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
+Vorinostat,DB02546,adult gliosarcoma,C1541317,NCT01378481,Terminated,Phase 1,,C1=CC=C(C=C1)NC(=O)CCCCCCC(=O)NO
+Sulconazole,DB06820,Tinea Pedis,C0040259,,Approved,,,C1=CC(=CC=C1CSC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl)Cl
+Lenalidomide,DB00480,Chronic lymphocytic leukaemia refractory,C0278791,NCT01419795,Terminated,Phase 2,Low accrual,C1CC(=O)NC(=O)C1N2CC3=C(C2=O)C=CC=C3N
+Brompheniramine,DB00835,Allergic Conjunctivitis,C0009766,,Approved,,,CN(C)CCC(C1=CC=C(C=C1)Br)C2=CC=CC=N2
+Sirolimus,DB00877,Non-small cell lung cancer metastatic,C0278987,NCT01383668,Withdrawn,Phase 1,lack of access to study drug,C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)O)C)/C)O)OC)C)C)/C)OC
+Idarubicin,DB01177,childhood acute basophilic leukemia,C0279649,NCT00096148,Terminated,Phase 2,Administratively complete.,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O
+Gentamicin,DB00798,Blepharoconjunctivitis,C0005743,,Approved,,,CC(C1CCC(C(O1)OC2C(CC(C(C2O)OC3C(C(C(CO3)(C)O)NC)O)N)N)N)NC
+Prednisolone,DB00860,Rosacea,C0035854,,Approved,,,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C)O
+Scopolamine,DB00747,Rhinorrhea,C1260880,,Approved,,,CN1[C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)[C@H](CO)C4=CC=CC=C4
+Erlotinib,DB00530,squamous cell carcinoma of salivary gland,C0279697,NCT01332279,Withdrawn,Phase 1,Pharmaceutical co. withdrew support. Study was never activated and did not accrue any    patients.,COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC
+Fimasartan,DB09279,Hypertensive disease,C0020538,,Approved,,,CCCCC1=NC(=C(C(=O)N1CC2=CC=C(C=C2)C3=CC=CC=C3C4=NNN=N4)CC(=S)N(C)C)C
+Thiotepa,DB04572,Malignant ascites,C0220656,,Approved,,,C1CN1P(=S)(N2CC2)N3CC3
+Ceftazidime,DB00438,Gonococcal meningitis,C0153225,,Approved,,,CC(C)(C(=O)O)O/N=C(/C1=CSC(=N1)N)\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)C[N+]4=CC=CC=C4)C(=O)[O-]
+Levodopa,DB01235,"Parkinson Disease, Postencephalitic",C0030568,,Approved,,,C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)O
+Cholecalciferol,DB00169,adult acute myeloid leukemia with inv(16)(p13;q22),C1541333,NCT01521936,Terminated,Phase 2,Lack of funding,C[C@H](CCCC(C)C)[C@H]1CC[C@@H]\2[C@@]1(CCC/C2=C\C=C/3\C[C@H](CCC3=C)O)C
+Triamcinolone,DB00620,Addisonian crisis,C0151467,,Approved,,,C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@H]([C@@]2(C(=O)CO)O)O)CCC4=CC(=O)C=C[C@@]43C)F)O
+Quetiapine,DB01224,"Bipolar affective disorder, current episode manic",C0338873,,Approved,,,C1CN(CCN1CCOCCO)C2=NC3=CC=CC=C3SC4=CC=CC=C42
+Pilocarpine,DB01085,Xerostomia,C0043352,,Approved,,,CC[C@H]1[C@H](COC1=O)CC2=CN=CN2C
+Paclitaxel,DB01229,Stage IIIB Esophageal Adenocarcinoma,C2981373,NCT02392377,Terminated,Phase 2,Slow accrual,CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C
+Irinotecan,DB00762,Colon cancer recurrent,C0278553,NCT01320683,Terminated,Phase 2,This study will not be written up.,CCC1=C2CN3C(=CC4=C(C3=O)COC(=O)[C@@]4(CC)O)C2=NC5=C1C=C(C=C5)OC(=O)N6CCC(CC6)N7CCCCC7
+Thalidomide,DB01041,Pain,C0030193,NCT00684242,Terminated,Phase 2,Low accrual.,C1CC(=O)NC(=O)C1N2C(=O)C3=CC=CC=C3C2=O
+Hydrocortisone,DB00741,Serum Sickness,C0036830,,Approved,,,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O
+Imipenem,DB01598,Infection of skin AND/OR subcutaneous tissue,C0178299,,Approved,,,C[C@H]([C@@H]1[C@H]2CC(=C(N2C1=O)C(=O)O)SCCN=CN)O
+Fluorouracil,DB00544,signet ring adenocarcinoma of the colon,C0279640,NCT02235324,Withdrawn,Phase 2,Lack of funding,C1=C(C(=O)NC(=O)N1)F
+Astemizole,DB00637,Sneezing,C0037383,,Approved,,,COC1=CC=C(C=C1)CCN2CCC(CC2)NC3=NC4=CC=CC=C4N3CC5=CC=C(C=C5)F
+Homoharringtonine,DB04865,Adult Acute Myeloid Leukemia without Maturation,C0279623,NCT02029417,Terminated,Phase 2,Major revisions needed in study,CC(C)(CCC[C@@](CC(=O)OC)(C(=O)O[C@H]1[C@H]2C3=CC4=C(C=C3CCN5[C@@]2(CCC5)C=C1OC)OCO4)O)O
+Phenindamine,DB01619,Sneezing,C0037383,,Approved,,,CN1CCC2=C(C1)C(C3=CC=CC=C23)C4=CC=CC=C4
+Miconazole,DB01110,Tinea Pedis,C0040259,,Approved,,,C1=CC(=C(C=C1Cl)Cl)COC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl
+Ticagrelor,DB08816,Acute Coronary Syndrome,C0948089,,Approved,,,CCCSC1=NC(=C2C(=N1)N(N=N2)[C@@H]3C[C@@H]([C@H]([C@H]3O)O)OCCO)N[C@@H]4C[C@H]4C5=CC(=C(C=C5)F)F
+Norfloxacin,DB01059,Pneumonia,C0032285,,Approved,,,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O
+Magnesium Sulfate,DB00653,Pregnancy associated hypertension,C0852036,NCT00293735,Suspended,Phase 2/Phase 3,Lack of funding,[O-]S(=O)(=O)[O-].[Mg+2]
+Minocycline,DB01017,Acute gonococcal cervicitis,C0153195,,Approved,,,CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C
+Miglitol,DB00491,"Diabetes Mellitus, Non-Insulin-Dependent",C0011860,,Approved,,,C1[C@@H]([C@H]([C@@H]([C@H](N1CCO)CO)O)O)O
+Domperidone,DB01184,Gastroparesis,C0152020,NCT01378884,Withdrawn,Phase 3,,C1CN(CCC1N2C3=C(C=C(C=C3)Cl)NC2=O)CCCN4C5=CC=CC=C5NC4=O
+Idarubicin,DB01177,leukemia,C0023418,NCT01018069,Terminated,Phase 2,Failed to reach endpoints,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=CC=CC=C5C4=O)O)(C(=O)C)O)N)O
+Azacitidine,DB00928,Myelofibrosis due to another disorder,C0242006,NCT00381693,Terminated,Phase 2,Due to lack of accrual and trial has demonstrated too little clinical benefit,C1=NC(=NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)N
+Dexamethasone,DB01234,Inflammatory Bowel Diseases,C0021390,,Approved,,,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C
+Ethchlorvynol,DB00189,Sleeplessness,C0917801,,Approved,,,CCC(/C=C/Cl)(C#C)O
+Dalbavancin,DB06219,Infection of skin AND/OR subcutaneous tissue,C0178299,,Approved,,,CC(C)CCCCCCCCC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1OC2=C3C=C4C=C2OC5=C(C=C(C=C5)[C@H]([C@H]6C(=O)N[C@@H](C7=C(C(=CC(=C7)O)O[C@@H]8[C@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O)C9=C(C=CC(=C9)[C@H](C(=O)N6)NC(=O)[C@@H]4NC(=O)[C@@H]1C2=C(C(=CC(=C2)OC2=C(C=CC(=C2)[C@H](C(=O)N[C@H](CC2=CC=C(O3)C=C2)C(=O)N1)NC)O)O)Cl)O)C(=O)NCCCN(C)C)O)Cl)C(=O)O)O)O
+Clocortolone,DB00838,Chronic small plaque psoriasis,C0406317,,Approved,,,C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@H]1C(=O)CO)C)O)Cl)C)F
+Camphor,DB01744,Arthritic pains,C0857177,,Approved,,,CC1(C2CCC1(C(=O)C2)C)C
+Loteprednol,DB00873,Corneal Perforation,C0339293,,Approved,,,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)OCCl)O)CCC4=CC(=O)C=C[C@]34C)O
+Chloral hydrate,DB01563,Sleeplessness,C0917801,,Approved,,,C(C(Cl)(Cl)Cl)(O)O
+Oxamniquine,DB01096,Schistosomiasis,C0036323,,Approved,,,CC(C)NCC1CCC2=CC(=C(C=C2N1)[N+](=O)[O-])CO
+Temozolomide,DB00853,Ewings sarcoma,C0553580,NCT01313884,Terminated,Phase 2,,CN1C(=O)N2C=NC(=C2N=N1)C(=O)N
+Pemetrexed,DB00642,Colorectal cancer metastatic,C0948380,NCT01109615,Terminated,Phase 2,Lacking effect of treatment,C1=CC(=CC=C1CCC2=CNC3=C2C(=O)NC(=N3)N)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+Ampicillin,DB00415,Urinary tract infection,C0042029,,Approved,,,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=CC=C3)N)C(=O)O)C
+Doxorubicin,DB00997,Regional Urothelial Carcinoma of the Renal Pelvis and Ureter,C0280281,NCT01639521,Withdrawn,Phase 2,Lack of funding,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O
+Alendronic acid,DB00630,Adenocarcinoma of prostate,C0007112,NCT00019695,Terminated,Phase 2,,C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN
+Sirolimus,DB00877,recurrent adult Hodgkin's lymphoma,C0278530,NCT00086840,Terminated,Phase 2,Administratively complete.,C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)O)C)/C)O)OC)C)C)/C)OC
+Ofloxacin,DB01165,Chronic Bacterial Prostatitis,C1720797,,Approved,,,CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCN(CC4)C)F)C(=O)O
+Pramocaine,DB09345,Arthropod bite wound,C1444173,,Approved,,,CCCCOC1=CC=C(C=C1)OCCCN2CCOCC2
+Ezetimibe,DB00973,Sitosterolemia,C0342907,,Approved,,,C1=CC(=CC=C1[C@@H]2[C@H](C(=O)N2C3=CC=C(C=C3)F)CC[C@@H](C4=CC=C(C=C4)F)O)O
+Minocycline,DB01017,Gonorrhea of rectum,C0275665,,Approved,,,CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C
+Echothiophate,DB01057,"Glaucoma, Open-Angle",C0017612,,Approved,,,CCOP(=O)(OCC)SCC[N+](C)(C)C
+Ceftriaxone,DB01212,Gonococcal meningitis,C0153225,,Approved,,,CN1C(=NC(=O)C(=O)N1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)/C(=N\OC)/C4=CSC(=N4)N)SC2)C(=O)O
+Sulfisoxazole,DB00263,Trachoma,C0040592,,Approved,,,CC1=C(ON=C1C)NS(=O)(=O)C2=CC=C(C=C2)N
+Desoximetasone,DB00547,"Lymphoma, T-Cell, Cutaneous",C0079773,,Approved,,,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@H]1C(=O)CO)C)O)F)C
+Methylscopolamine bromide,DB00462,Nasal congestion (finding),C0027424,,Approved,,,C[N+]1([C@H]2CC(C[C@H]1C3C2O3)OC(=O)[C@H](CO)C4=CC=CC=C4)C.[Br-]
+Ethosuximide,DB00593,Absence Epilepsy,C0014553,,Approved,,,CCC1(CC(=O)NC1=O)C
+Diflunisal,DB00861,Pain,C0030193,,Approved,,,C1=CC(=C(C=C1C2=C(C=C(C=C2)F)F)C(=O)O)O
+Fexofenadine,DB00950,Allergic Conjunctivitis,C0009766,,Approved,,,CC(C)(C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O)C(=O)O
+Valproic Acid,DB00313,Anaplastic astrocytoma,C0334579,NCT01861990,Withdrawn,Phase 1,Feasibility of the trial was proven to be absent.,CCCC(CCC)C(=O)O
+Isotretinoin,DB00982,untreated childhood supratentorial primitive neuroectodermal tumors,C0338333,NCT00392327,Suspended,Phase 3,Temporarily stopped for assessment,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C\C(=O)O)/C)/C
+Dexamethasone,DB01234,Acute lymphocytic leukemia,C0023449,,Approved,,,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C
+Lumefantrine,DB06708,"Malaria, Falciparum",C0024535,,Approved,,,CCCCN(CCCC)CC(C1=CC(=CC\2=C1C3=C(/C2=C/C4=CC=C(C=C4)Cl)C=C(C=C3)Cl)Cl)O
+Leucovorin,DB00650,Folic Acid Deficiency,C0016412,,Approved,,,C1C(N(C2=C(N1)N=C(NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O
+Dexamethasone,DB01234,Granuloma Annulare,C0085074,,Approved,,,C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)CO)O)C)O)F)C
+Demeclocycline,DB00618,Rocky Mountain Spotted Fever,C0035793,,Approved,,,CN(C)[C@H]1[C@@H]2C[C@@H]3[C@@H](C4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)Cl)O
+Cisplatin,DB00515,Squamous cell carcinoma of the hypopharynx stage IV,C0280391,NCT00033449,Terminated,Phase 1,Administratively complete.,N.N.Cl[Pt]Cl
+Calcium Acetate,DB00258,Disorder of electrolytes,C1704431,,Approved,,,CC(=O)[O-].CC(=O)[O-].[Ca+2]
+Netupitant,DB09048,Chemotherapy-induced nausea and vomiting,C0401160,,Approved,,,CC1=CC=CC=C1C2=CC(=NC=C2N(C)C(=O)C(C)(C)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C
+Griseofulvin,DB00400,Onychomycosis,C0040261,,Approved,,,C[C@@H]1CC(=O)C=C([C@]12C(=O)C3=C(O2)C(=C(C=C3OC)OC)Cl)OC
+Carboplatin,DB00958,Chemotherapeutic Agent Toxicity,C1707372,NCT01562301,Withdrawn,Phase 1,,C1CC(C1)(C(=O)O)C(=O)O.[NH2-].[NH2-].[Pt+2]
+Fluconazole,DB00196,CRYPTOCOCCAL INFECTION DISSEMINATED,C0742909,NCT01562132,Terminated,Phase 2,Stopped in accordance with pre-specified stopping rules for poor recruitment.,C1=CC(=C(C=C1F)F)C(CN2C=NC=N2)(CN3C=NC=N3)O
+Zinc oxide,DB09321,Injury wounds,C0043250,,Approved,,,O=[Zn]
+Kanamycin,DB01172,Urinary tract infection,C0042029,,Approved,,,C1[C@H]([C@@H]([C@H]([C@@H]([C@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CN)O)O)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)N)O)N
+Erythromycin,DB00199,Streptococcal pneumonia,C0155862,,Approved,,,CC[C@@H]1[C@@]([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H]([C@@H]([C@H](C(=O)O1)C)O[C@H]2C[C@@]([C@H]([C@@H](O2)C)O)(C)OC)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)O)C)C)O)(C)O
+Vincristine,DB00541,Ewings sarcoma,C0553580,NCT00038142,Terminated,Phase 2,Low Accrual,CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
+Fludarabine,DB01073,leukemia,C0023418,NCT00801931,Terminated,Phase 1/Phase 2,Poor accrual,C1=NC2=C(N=C(N=C2N1[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)O)F)N
+Pramocaine,DB09345,Tinea cruris,C1384589,,Approved,,,CCCCOC1=CC=C(C=C1)OCCCN2CCOCC2
+Promazine,DB00420,Allergic Conjunctivitis,C0009766,,Approved,,,CN(C)CCCN1C2=CC=CC=C2SC3=CC=CC=C31
+Methylprednisolone,DB00959,"Lymphoma, T-Cell, Cutaneous",C0079773,,Approved,,,C[C@H]1C[C@H]2[C@@H]3CC[C@@]([C@]3(C[C@@H]([C@@H]2[C@@]4(C1=CC(=O)C=C4)C)O)C)(C(=O)CO)O
+Physostigmine,DB00981,anticholinergic toxicity,C0237996,,Approved,,,C[C@@]12CCN([C@@H]1N(C3=C2C=C(C=C3)OC(=O)NC)C)C
+Vincristine,DB00541,leukemia,C0023418,NCT01005914,Terminated,Phase 2,Increased rate of bacterial infections,CC[C@@]1(C[C@@H]2C[C@@](C3=C(CCN(C2)C1)C4=CC=CC=C4N3)(C5=C(C=C6C(=C5)[C@]78CCN9[C@H]7[C@@](C=CC9)([C@H]([C@@]([C@@H]8N6C=O)(C(=O)OC)O)OC(=O)C)CC)OC)C(=O)OC)O
+Cyclophosphamide,DB00531,recurrent adult Hodgkin's lymphoma,C0278530,NCT01652014,Suspended,Phase 2,Funding unavailable,C1CNP(=O)(OC1)N(CCCl)CCCl
+Calcium carbonate,DB06724,Hypocalcemia,C0020598,,Approved,,,C(=O)([O-])[O-].[Ca+2]
+Cefpodoxime,DB01416,Haemophilus influenzae pneumonia,C0276026,,Approved,,,COCC1=C(N2[C@@H]([C@@H](C2=O)NC(=O)/C(=N\OC)/C3=CSC(=N3)N)SC1)C(=O)O
+Fludarabine,DB01073,adult acute myeloid leukemia with 11q23 (MLL) abnormalities,C1541334,NCT01652014,Suspended,Phase 2,Funding unavailable,C1=NC2=C(N=C(N=C2N1[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)O)F)N
+Sirolimus,DB00877,Graft-vs-Host Disease,C0018133,NCT00117702,Terminated,Phase 2/Phase 3,safety reasons,C[C@@H]1CC[C@H]2C[C@@H](/C(=C/C=C/C=C/[C@H](C[C@H](C(=O)[C@@H]([C@@H](/C(=C/[C@H](C(=O)C[C@H](OC(=O)[C@@H]3CCCCN3C(=O)C(=O)[C@@]1(O2)O)[C@H](C)C[C@@H]4CC[C@H]([C@@H](C4)OC)O)C)/C)O)OC)C)C)/C)OC
+Docetaxel,DB01248,Malignant neoplasm of stomach,C0024623,,Approved,,,CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)O
+Norfloxacin,DB01059,Acute gonococcal endometritis,C0153196,,Approved,,,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O
+Ceftriaxone,DB01212,Staphylococcal Pneumonia,C0032308,,Approved,,,CN1C(=NC(=O)C(=O)N1)SCC2=C(N3[C@@H]([C@@H](C3=O)NC(=O)/C(=N\OC)/C4=CSC(=N4)N)SC2)C(=O)O
+Aluminum hydroxide,DB06723,Dyspepsia,C0013395,,Approved,,,[OH-].[OH-].[OH-].[Al+3]
+Tobramycin,DB00684,Allergic Conjunctivitis,C0009766,,Approved,,,C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)N)O)O)O[C@@H]3[C@@H](C[C@@H]([C@H](O3)CN)O)N)N
+Ropinirole,DB00268,Restless Legs Syndrome,C0035258,,Approved,,,CCCN(CCC)CCC1=C2CC(=O)NC2=CC=C1
+Fluorouracil,DB00544,Squamous cell carcinoma of esophagus,C0279626,NCT00064259,Terminated,Phase 1/Phase 2,Discontinued development of G3139 (oblimersen),C1=C(C(=O)NC(=O)N1)F
+Doxycycline,DB00254,Acute gonococcal endometritis,C0153196,,Approved,,,C[C@@H]1[C@H]2[C@@H]([C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O
+Carboplatin,DB00958,Malignant neoplasm of lung,C0242379,NCT00544648,Terminated,Phase 1/Phase 2,Ph I completed. Funding became unavailable causing Ph II to cease after two patients were    enrolled.,C1CC(C1)(C(=O)O)C(=O)O.[NH2-].[NH2-].[Pt+2]
+Triprolidine,DB00427,Common Cold,C0009443,,Approved,,,CC1=CC=C(C=C1)/C(=C\CN2CCCC2)/C3=CC=CC=N3
+Prednisone,DB00635,Rheumatoid Arthritis,C0003873,,Approved,,,C[C@]12CC(=O)[C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C
+Cyclophosphamide,DB00531,noncontiguous stage II adult diffuse large cell lymphoma,C0677709,NCT00088881,Terminated,Phase 2,,C1CNP(=O)(OC1)N(CCCl)CCCl
+Prednisolone,DB00860,"Tuberculosis, Miliary",C0041321,,Approved,,,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)CO)O)CCC4=CC(=O)C=C[C@]34C)O
+Nandrolone phenpropionate,DB00984,Malnutrition,C0162429,NCT00242463,Terminated,Phase 2,drug no longer available in canada,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4=CC=CC=C4)CCC5=CC(=O)CC[C@H]35
+Cytarabine,DB00987,Adult Acute Myeloid Leukemia without Maturation,C0279623,NCT02029417,Terminated,Phase 2,Major revisions needed in study,C1=CN(C(=O)N=C1N)[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)O
+Gentamicin,DB00798,Furunculosis,C0016867,,Approved,,,CC(C1CCC(C(O1)OC2C(CC(C(C2O)OC3C(C(C(CO3)(C)O)NC)O)N)N)N)NC
+Amphotericin B,DB00681,Mucormycosis,C0026718,,Approved,,,C[C@H]1/C=C/C=C/C=C/C=C/C=C/C=C/C=C/[C@@H](C[C@H]2[C@@H]([C@H](C[C@](O2)(C[C@H](C[C@H]([C@@H](CC[C@H](C[C@H](CC(=O)O[C@H]([C@@H]([C@@H]1O)C)C)O)O)O)O)O)O)O)C(=O)O)O[C@H]3[C@H]([C@H]([C@@H]([C@H](O3)C)O)N)O
+Cyclophosphamide,DB00531,stage III adult diffuse large cell lymphoma,C0280162,NCT00080847,Terminated,Phase 2,,C1CNP(=O)(OC1)N(CCCl)CCCl
+Cortisone acetate,DB01380,"Tuberculosis, Miliary",C0041321,,Approved,,,CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
+Meclofenamic acid,DB00939,Rheumatoid Arthritis,C0003873,,Approved,,,CC1=C(C(=C(C=C1)Cl)NC2=CC=CC=C2C(=O)O)Cl
+Fludarabine,DB01073,Cutaneous B-Cell Non-Hodgkin Lymphoma,C1511566,NCT01652014,Suspended,Phase 2,Funding unavailable,C1=NC2=C(N=C(N=C2N1[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)O)F)N
+Norfloxacin,DB01059,Cystitis,C0010692,,Approved,,,CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNCC3)F)C(=O)O
+Cortisone acetate,DB01380,Addisonian crisis,C0151467,,Approved,,,CC(=O)OCC(=O)[C@]1(CC[C@@H]2[C@@]1(CC(=O)[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C)O
+Mepyramine,DB06691,Rhinorrhea,C1260880,,Approved,,,CN(C)CCN(CC1=CC=C(C=C1)OC)C2=CC=CC=N2
+Mycophenolic acid,DB01024,Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome,C1332153,NCT01652014,Suspended,Phase 2,Funding unavailable,CC1=C2COC(=O)C2=C(C(=C1OC)C/C=C(\C)/CCC(=O)O)O
+Hydrocortisone,DB00741,"Arthritis, Gouty",C0003868,,Approved,,,C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2[C@H](C[C@]4([C@H]3CC[C@@]4(C(=O)CO)O)C)O
+Doxorubicin,DB00997,Epithelial ovarian cancer,C0677886,NCT01840943,Terminated,Phase 3,the study was terminated due to medication supply issue from current manufacturer,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)CO)O)N)O
+Urea,DB03904,Tinea Versicolor,C0040262,,Approved,,,C(=O)(N)N
