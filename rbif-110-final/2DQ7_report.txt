@@ -1,0 +1,17 @@
+
+# Structural Report: 2DQ7
+
+## General Information:
+- **PDB ID:** 2DQ7
+- **Resolution:** 2.8 Å
+- **Number of Chains:** 1
+- **Chains Present:** X
+
+## Ligand Information:
+- **Bound Ligands:** PTR, ASP, HIS, GLY, TRP, GLU, VAL, THR, PHE, ALA, CYS, PRO, STU, HOH, ILE, LYS, ARG, LEU, GLN, SER, ASN, MET, TYR
+
+## Summary:
+PDB structure 2DQ7 has a resolution of 2.8 Å and contains 1 chains. 
+The structure includes the following bound ligands: PTR, ASP, HIS, GLY, TRP, GLU, VAL, THR, PHE, ALA, CYS, PRO, STU, HOH, ILE, LYS, ARG, LEU, GLN, SER, ASN, MET, TYR.
+This makes it a suitable candidate for further **virtual screening**.
+
